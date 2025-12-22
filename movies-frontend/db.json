@@ -1,0 +1,48 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "watchlist": false
+    },
+    {
+      "id": "2",
+      "title": "The Matrix",
+      "watchlist": false
+    },
+    {
+      "id": "3",
+      "title": "Interstellar",
+      "watchlist": false
+    },
+    {
+      "id": "4",
+      "title": "Parasite",
+      "watchlist": false
+    },
+    {
+      "id": "ca1b",
+      "title": "Shrek",
+      "watchlist": false,
+      "releaseYear": 2003
+    },
+    {
+      "id": "72b5",
+      "title": "Spiderman",
+      "watchlist": false,
+      "releaseYear": null
+    },
+    {
+      "id": "8a13",
+      "title": "Spiderman 2",
+      "watchlist": false,
+      "releaseYear": 2009
+    },
+    {
+      "id": "0e36",
+      "title": "Spiderman 3",
+      "watchlist": false,
+      "releaseYear": 2018
+    }
+  ]
+}

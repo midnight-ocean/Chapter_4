@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "movies-backend",
+			"path": "."
+		},
+		{
+			"name": "Chapter_4",
+			"path": "../../../../Documents/BCA_CompSci/MERN_Stack/Chapter_4"
+		},
+		{
+			"name": "movies-frontend",
+			"path": "../../../ch4_shared_code-master (1)/ch4_shared_code-master/movies-frontend"
+		}
+	],
+	"settings": {}
+}
