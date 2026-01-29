@@ -4,6 +4,7 @@ const cors = require("cors");
 
 app.use(cors());
 app.use(express.json());
+app.use(express.static("dist")); 
 
 let contacts = [
     {id: 1, name: "John Doe", email: "john@example.com"},
